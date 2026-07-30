@@ -1,0 +1,12 @@
+invoice_id,client_name,issue_date,due_date,currency,net_amount,vat_rate,payment_status
+FV-2026-001,Alfa Consulting,2026-06-01,2026-06-15,PLN,1200.00,23,paid
+FV-2026-002,Beta Logistics,2026-06-10,2026-06-30,EUR,850.00,23,unpaid
+FV-2026-003,Gamma Retail,2026-07-01,2026-07-20,USD,500.00,8,unpaid
+FV-2026-004,Delta Studio,2026-07-15,2026-08-15,PLN,2400.00,23,unpaid
+FV-2026-005,Epsilon Services,2026-07-18,2026-08-18,GBP,760.00,23,paid
+FV-2026-006,Zeta Systems,2026-07-20,2026-08-20,CHF,910.00,23,unpaid
+FV-2026-007,Eta Solutions,2026-07-02,2026-07-22,EUR,450.00,23,unpaid
+FV-2026-007,Eta Solutions,2026-07-03,2026-07-23,EUR,470.00,23,unpaid
+FV-2026-009,,2026-07-08,2026-08-08,PLN,650.00,23,paid
+FV-2026-010,Iota Labs,2026-07-10,2026-08-10,USD,-200.00,23,unpaid
+FV-2026-011,Kappa Media,2026-07-25,2026-07-15,PLN,1000.00,23,unpaid
