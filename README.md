@@ -8,7 +8,9 @@ The project was created for a junior automation / AI role. It demonstrates
 Python fundamentals, tabular data processing, CSV and JSON handling, API
 integration, error handling, testing, documentation and a simple web interface.
 
-> Live demo: the public Streamlit link will be added after deployment.
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://piotr-invoice-report-automation.streamlit.app/)
+
+> **Live demo:** [Open the application in your browser](https://piotr-invoice-report-automation.streamlit.app/)
 
 ## Business problem
 
