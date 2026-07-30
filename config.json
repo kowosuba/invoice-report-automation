@@ -1,0 +1,38 @@
+{
+  "required_columns": [
+    "invoice_id",
+    "client_name",
+    "issue_date",
+    "due_date",
+    "currency",
+    "net_amount",
+    "vat_rate",
+    "payment_status"
+  ],
+  "allowed_currencies": [
+    "PLN",
+    "EUR",
+    "USD",
+    "GBP",
+    "CHF"
+  ],
+  "allowed_vat_rates": [
+    0,
+    5,
+    8,
+    23
+  ],
+  "allowed_payment_statuses": [
+    "paid",
+    "unpaid"
+  ],
+  "base_currency": "PLN",
+  "api_timeout_seconds": 5,
+  "offline_exchange_rates": {
+    "PLN": 1.0,
+    "EUR": 4.3,
+    "USD": 3.75,
+    "GBP": 4.95,
+    "CHF": 4.6
+  }
+}
